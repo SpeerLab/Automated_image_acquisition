@@ -1,0 +1,5578 @@
+<sequence>
+  
+
+  <branch name="storm">
+    <branch name="488storm_000">
+      <DAMoveStage>
+        <stage_x type="float">-10923.33</stage_x>
+        <stage_y type="float">-459.84</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_000</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_001">
+      <DAMoveStage>
+        <stage_x type="float">-11052.4</stage_x>
+        <stage_y type="float">-797.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_001</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_002">
+      <DAMoveStage>
+        <stage_x type="float">-11181.68</stage_x>
+        <stage_y type="float">-1103.81</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_002</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_003">
+      <DAMoveStage>
+        <stage_x type="float">-11290.46</stage_x>
+        <stage_y type="float">-1438.17</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_003</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_004">
+      <DAMoveStage>
+        <stage_x type="float">-11373.38</stage_x>
+        <stage_y type="float">-1785.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_004</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_005">
+      <DAMoveStage>
+        <stage_x type="float">-11420.63</stage_x>
+        <stage_y type="float">-2137.19</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_005</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_006">
+      <DAMoveStage>
+        <stage_x type="float">-11434.9</stage_x>
+        <stage_y type="float">-2494.72</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_006</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_007">
+      <DAMoveStage>
+        <stage_x type="float">-11422.42</stage_x>
+        <stage_y type="float">-2863.85</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_007</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_008">
+      <DAMoveStage>
+        <stage_x type="float">-11357.33</stage_x>
+        <stage_y type="float">-3215.15</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_008</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_009">
+      <DAMoveStage>
+        <stage_x type="float">-11268.17</stage_x>
+        <stage_y type="float">-3556.63</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_009</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_010">
+      <DAMoveStage>
+        <stage_x type="float">-11155.82</stage_x>
+        <stage_y type="float">-3899.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_010</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_011">
+      <DAMoveStage>
+        <stage_x type="float">-11005.14</stage_x>
+        <stage_y type="float">-4230.69</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_011</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_012">
+      <DAMoveStage>
+        <stage_x type="float">-10847.33</stage_x>
+        <stage_y type="float">-4566.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_012</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_013">
+      <DAMoveStage>
+        <stage_x type="float">-10671.68</stage_x>
+        <stage_y type="float">-4886.91</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_013</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_014">
+      <DAMoveStage>
+        <stage_x type="float">-10522.48</stage_x>
+        <stage_y type="float">-737.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_014</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_015">
+      <DAMoveStage>
+        <stage_x type="float">-10594.56</stage_x>
+        <stage_y type="float">-1095.19</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_015</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_016">
+      <DAMoveStage>
+        <stage_x type="float">-10665.89</stage_x>
+        <stage_y type="float">-1462.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_016</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_017">
+      <DAMoveStage>
+        <stage_x type="float">-10713.44</stage_x>
+        <stage_y type="float">-1825.57</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_017</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_018">
+      <DAMoveStage>
+        <stage_x type="float">-10741.67</stage_x>
+        <stage_y type="float">-2187.42</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_018</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_019">
+      <DAMoveStage>
+        <stage_x type="float">-10762.48</stage_x>
+        <stage_y type="float">-2550.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_019</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_020">
+      <DAMoveStage>
+        <stage_x type="float">-10782.54</stage_x>
+        <stage_y type="float">-2917.05</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_020</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_021">
+      <DAMoveStage>
+        <stage_x type="float">-10795.91</stage_x>
+        <stage_y type="float">-3285.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_021</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_022">
+      <DAMoveStage>
+        <stage_x type="float">-10802.6</stage_x>
+        <stage_y type="float">-3640.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_022</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_023">
+      <DAMoveStage>
+        <stage_x type="float">-10074.57</stage_x>
+        <stage_y type="float">-755.39</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_023</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_024">
+      <DAMoveStage>
+        <stage_x type="float">-10098.1</stage_x>
+        <stage_y type="float">-1119.47</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_024</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_025">
+      <DAMoveStage>
+        <stage_x type="float">-10121.63</stage_x>
+        <stage_y type="float">-1482.92</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_025</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_026">
+      <DAMoveStage>
+        <stage_x type="float">-10153.83</stage_x>
+        <stage_y type="float">-1852.57</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_026</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_027">
+      <DAMoveStage>
+        <stage_x type="float">-10213.89</stage_x>
+        <stage_y type="float">-2219.12</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_027</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_028">
+      <DAMoveStage>
+        <stage_x type="float">-10255.99</stage_x>
+        <stage_y type="float">-2586.29</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_028</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_029">
+      <DAMoveStage>
+        <stage_x type="float">-10306.76</stage_x>
+        <stage_y type="float">-2954.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_029</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_030">
+      <DAMoveStage>
+        <stage_x type="float">-10359.39</stage_x>
+        <stage_y type="float">-3313.82</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_030</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_031">
+      <DAMoveStage>
+        <stage_x type="float">-10413.26</stage_x>
+        <stage_y type="float">-3681.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_031</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_032">
+      <DAMoveStage>
+        <stage_x type="float">-10472.7</stage_x>
+        <stage_y type="float">-4046.3</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_032</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_033">
+      <DAMoveStage>
+        <stage_x type="float">-9604.62</stage_x>
+        <stage_y type="float">-688.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_033</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_034">
+      <DAMoveStage>
+        <stage_x type="float">-9661.59</stage_x>
+        <stage_y type="float">-1061.26</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_034</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_035">
+      <DAMoveStage>
+        <stage_x type="float">-9701.21</stage_x>
+        <stage_y type="float">-1424.72</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_035</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_036">
+      <DAMoveStage>
+        <stage_x type="float">-9725.98</stage_x>
+        <stage_y type="float">-1790.65</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_036</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_037">
+      <DAMoveStage>
+        <stage_x type="float">-9761.27</stage_x>
+        <stage_y type="float">-2166.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_037</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_038">
+      <DAMoveStage>
+        <stage_x type="float">-9795.33</stage_x>
+        <stage_y type="float">-2533.66</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_038</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_039">
+      <DAMoveStage>
+        <stage_x type="float">-9838.67</stage_x>
+        <stage_y type="float">-2911.97</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_039</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_040">
+      <DAMoveStage>
+        <stage_x type="float">-9896.87</stage_x>
+        <stage_y type="float">-3269.86</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_040</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_041">
+      <DAMoveStage>
+        <stage_x type="float">-9960.03</stage_x>
+        <stage_y type="float">-3633.31</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_041</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_042">
+      <DAMoveStage>
+        <stage_x type="float">-10032.47</stage_x>
+        <stage_y type="float">-3998.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_042</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_043">
+      <DAMoveStage>
+        <stage_x type="float">-9258.19</stage_x>
+        <stage_y type="float">-1594.89</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_043</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_044">
+      <DAMoveStage>
+        <stage_x type="float">-9225.69</stage_x>
+        <stage_y type="float">-1967.73</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_044</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_045">
+      <DAMoveStage>
+        <stage_x type="float">-9195.35</stage_x>
+        <stage_y type="float">-2335.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_045</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_046">
+      <DAMoveStage>
+        <stage_x type="float">-9163.77</stage_x>
+        <stage_y type="float">-2710.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_046</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_047">
+      <DAMoveStage>
+        <stage_x type="float">-9129.1</stage_x>
+        <stage_y type="float">-3098.96</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_047</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_048">
+      <DAMoveStage>
+        <stage_x type="float">-9077.09</stage_x>
+        <stage_y type="float">-3466.75</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_048</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_049">
+      <DAMoveStage>
+        <stage_x type="float">-9036.84</stage_x>
+        <stage_y type="float">-3806.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_049</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_050">
+      <DAMoveStage>
+        <stage_x type="float">-8929.72</stage_x>
+        <stage_y type="float">-825.98</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_050</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_051">
+      <DAMoveStage>
+        <stage_x type="float">-8879.57</stage_x>
+        <stage_y type="float">-1200.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_051</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_052">
+      <DAMoveStage>
+        <stage_x type="float">-8834.37</stage_x>
+        <stage_y type="float">-1572.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_052</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_053">
+      <DAMoveStage>
+        <stage_x type="float">-8793.5</stage_x>
+        <stage_y type="float">-1942.97</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_053</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_054">
+      <DAMoveStage>
+        <stage_x type="float">-8768.12</stage_x>
+        <stage_y type="float">-2313.23</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_054</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_055">
+      <DAMoveStage>
+        <stage_x type="float">-8750.16</stage_x>
+        <stage_y type="float">-2681.64</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_055</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_056">
+      <DAMoveStage>
+        <stage_x type="float">-8711.77</stage_x>
+        <stage_y type="float">221.66</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_056</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_057">
+      <DAMoveStage>
+        <stage_x type="float">-8631.28</stage_x>
+        <stage_y type="float">-145.51</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_057</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_058">
+      <DAMoveStage>
+        <stage_x type="float">-8563.17</stage_x>
+        <stage_y type="float">-508.96</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_058</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_059">
+      <DAMoveStage>
+        <stage_x type="float">-8508.68</stage_x>
+        <stage_y type="float">-874.89</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_059</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_060">
+      <DAMoveStage>
+        <stage_x type="float">-8454.2</stage_x>
+        <stage_y type="float">-1251.97</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_060</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_061">
+      <DAMoveStage>
+        <stage_x type="float">-8413.95</stage_x>
+        <stage_y type="float">-1619.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_061</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_062">
+      <DAMoveStage>
+        <stage_x type="float">-8372.47</stage_x>
+        <stage_y type="float">-1991.88</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_062</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_063">
+      <DAMoveStage>
+        <stage_x type="float">-8337.79</stage_x>
+        <stage_y type="float">-2357.19</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_063</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_064">
+      <DAMoveStage>
+        <stage_x type="float">-8324.79</stage_x>
+        <stage_y type="float">-2739.22</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_064</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_065">
+      <DAMoveStage>
+        <stage_x type="float">-8321.07</stage_x>
+        <stage_y type="float">-3123.11</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_065</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_066">
+      <DAMoveStage>
+        <stage_x type="float">-8322.93</stage_x>
+        <stage_y type="float">-3495.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_066</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_067">
+      <DAMoveStage>
+        <stage_x type="float">-8330.36</stage_x>
+        <stage_y type="float">-3872.31</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_067</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_068">
+      <DAMoveStage>
+        <stage_x type="float">-8352.03</stage_x>
+        <stage_y type="float">-4248.15</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_068</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_069">
+      <DAMoveStage>
+        <stage_x type="float">-8305.35</stage_x>
+        <stage_y type="float">1036.05</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_069</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_070">
+      <DAMoveStage>
+        <stage_x type="float">-8225.1</stage_x>
+        <stage_y type="float">672.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_070</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_071">
+      <DAMoveStage>
+        <stage_x type="float">-8160.91</stage_x>
+        <stage_y type="float">302.26</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_071</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_072">
+      <DAMoveStage>
+        <stage_x type="float">-8088.88</stage_x>
+        <stage_y type="float">-60.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_072</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_073">
+      <DAMoveStage>
+        <stage_x type="float">-8030.68</stage_x>
+        <stage_y type="float">-434.04</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_073</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_074">
+      <DAMoveStage>
+        <stage_x type="float">-7986.72</stage_x>
+        <stage_y type="float">-805.54</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_074</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_075">
+      <DAMoveStage>
+        <stage_x type="float">-7950.19</stage_x>
+        <stage_y type="float">-1175.19</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_075</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_076">
+      <DAMoveStage>
+        <stage_x type="float">-7915.52</stage_x>
+        <stage_y type="float">-1551.65</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_076</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_077">
+      <DAMoveStage>
+        <stage_x type="float">-7899.42</stage_x>
+        <stage_y type="float">-1928.11</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_077</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_078">
+      <DAMoveStage>
+        <stage_x type="float">-7882.08</stage_x>
+        <stage_y type="float">-2300.85</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_078</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_079">
+      <DAMoveStage>
+        <stage_x type="float">-7874.65</stage_x>
+        <stage_y type="float">-2680.4</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_079</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_080">
+      <DAMoveStage>
+        <stage_x type="float">-7868.46</stage_x>
+        <stage_y type="float">-3050.05</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_080</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_081">
+      <DAMoveStage>
+        <stage_x type="float">-7867.84</stage_x>
+        <stage_y type="float">-3426.51</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_081</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_082">
+      <DAMoveStage>
+        <stage_x type="float">-7869.08</stage_x>
+        <stage_y type="float">-3805.44</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_082</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_083">
+      <DAMoveStage>
+        <stage_x type="float">-7436.03</stage_x>
+        <stage_y type="float">-630.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_083</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_084">
+      <DAMoveStage>
+        <stage_x type="float">-7453.12</stage_x>
+        <stage_y type="float">-1009.75</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_084</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_085">
+      <DAMoveStage>
+        <stage_x type="float">-7470.95</stage_x>
+        <stage_y type="float">-1378.28</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_085</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_086">
+      <DAMoveStage>
+        <stage_x type="float">-7469.09</stage_x>
+        <stage_y type="float">-1755.36</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_086</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_087">
+      <DAMoveStage>
+        <stage_x type="float">-7470.33</stage_x>
+        <stage_y type="float">-2128.72</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_087</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_088">
+      <DAMoveStage>
+        <stage_x type="float">-7444.94</stage_x>
+        <stage_y type="float">-2501.71</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_088</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_089">
+      <DAMoveStage>
+        <stage_x type="float">-7417.45</stage_x>
+        <stage_y type="float">-2885.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_089</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_090">
+      <DAMoveStage>
+        <stage_x type="float">-7382.93</stage_x>
+        <stage_y type="float">-3263.29</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_090</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_091">
+      <DAMoveStage>
+        <stage_x type="float">-7343.32</stage_x>
+        <stage_y type="float">-3642.57</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_091</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_092">
+      <DAMoveStage>
+        <stage_x type="float">-7289.45</stage_x>
+        <stage_y type="float">-4002.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_092</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_093">
+      <DAMoveStage>
+        <stage_x type="float">-7231.67</stage_x>
+        <stage_y type="float">-4384.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_093</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_094">
+      <DAMoveStage>
+        <stage_x type="float">-7156.78</stage_x>
+        <stage_y type="float">-4751.57</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_094</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_095">
+      <DAMoveStage>
+        <stage_x type="float">-7069.04</stage_x>
+        <stage_y type="float">-5120.69</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_095</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_096">
+      <DAMoveStage>
+        <stage_x type="float">-7016.97</stage_x>
+        <stage_y type="float">-285.32</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_096</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_097">
+      <DAMoveStage>
+        <stage_x type="float">-7005.08</stage_x>
+        <stage_y type="float">-655.33</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_097</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_098">
+      <DAMoveStage>
+        <stage_x type="float">-7002.85</stage_x>
+        <stage_y type="float">-1028.32</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_098</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_099">
+      <DAMoveStage>
+        <stage_x type="float">-6982.48</stage_x>
+        <stage_y type="float">-1408.84</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_099</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_100">
+      <DAMoveStage>
+        <stage_x type="float">-6970.9</stage_x>
+        <stage_y type="float">-1765.39</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_100</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_101">
+      <DAMoveStage>
+        <stage_x type="float">-6962.73</stage_x>
+        <stage_y type="float">-2139.86</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_101</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_102">
+      <DAMoveStage>
+        <stage_x type="float">-6922.61</stage_x>
+        <stage_y type="float">-2494.28</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_102</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_103">
+      <DAMoveStage>
+        <stage_x type="float">-6889.92</stage_x>
+        <stage_y type="float">-2840.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_103</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_104">
+      <DAMoveStage>
+        <stage_x type="float">-6867.63</stage_x>
+        <stage_y type="float">-3213.51</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_104</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_105">
+      <DAMoveStage>
+        <stage_x type="float">-6840.88</stage_x>
+        <stage_y type="float">-3595.42</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_105</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_106">
+      <DAMoveStage>
+        <stage_x type="float">-6805.21</stage_x>
+        <stage_y type="float">-3968.41</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_106</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_107">
+      <DAMoveStage>
+        <stage_x type="float">-6765.83</stage_x>
+        <stage_y type="float">-4349.57</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_107</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_108">
+      <DAMoveStage>
+        <stage_x type="float">-6733.88</stage_x>
+        <stage_y type="float">-4710.67</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_108</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_109">
+      <DAMoveStage>
+        <stage_x type="float">-6686.33</stage_x>
+        <stage_y type="float">-5077.72</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_109</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_110">
+      <DAMoveStage>
+        <stage_x type="float">-6260.96</stage_x>
+        <stage_y type="float">-2299.11</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_110</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_111">
+      <DAMoveStage>
+        <stage_x type="float">-6213.63</stage_x>
+        <stage_y type="float">-2662.35</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_111</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_112">
+      <DAMoveStage>
+        <stage_x type="float">-6170.83</stage_x>
+        <stage_y type="float">-3021.67</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_112</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_113">
+      <DAMoveStage>
+        <stage_x type="float">-6086.13</stage_x>
+        <stage_y type="float">-3823.22</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_113</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_114">
+      <DAMoveStage>
+        <stage_x type="float">-6062.06</stage_x>
+        <stage_y type="float">-4168.28</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_114</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_115">
+      <DAMoveStage>
+        <stage_x type="float">-6051.36</stage_x>
+        <stage_y type="float">-4530.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_115</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_116">
+      <DAMoveStage>
+        <stage_x type="float">-6041.55</stage_x>
+        <stage_y type="float">-4889.59</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_116</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_117">
+      <DAMoveStage>
+        <stage_x type="float">-3600.11</stage_x>
+        <stage_y type="float">-532.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_117</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_118">
+      <DAMoveStage>
+        <stage_x type="float">-3657.38</stage_x>
+        <stage_y type="float">-892.5</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_118</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_119">
+      <DAMoveStage>
+        <stage_x type="float">-3694.83</stage_x>
+        <stage_y type="float">-1245.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_119</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_120">
+      <DAMoveStage>
+        <stage_x type="float">-3739.41</stage_x>
+        <stage_y type="float">-1596.87</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_120</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_121">
+      <DAMoveStage>
+        <stage_x type="float">-3771.51</stage_x>
+        <stage_y type="float">-1955.3</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_121</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_122">
+      <DAMoveStage>
+        <stage_x type="float">-3811.63</stage_x>
+        <stage_y type="float">-2312.84</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_122</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_123">
+      <DAMoveStage>
+        <stage_x type="float">-3816.98</stage_x>
+        <stage_y type="float">-2665.91</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_123</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_124">
+      <DAMoveStage>
+        <stage_x type="float">-3816.09</stage_x>
+        <stage_y type="float">-3027.02</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_124</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_125">
+      <DAMoveStage>
+        <stage_x type="float">-3821.44</stage_x>
+        <stage_y type="float">-3392.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_125</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_126">
+      <DAMoveStage>
+        <stage_x type="float">-3817.87</stage_x>
+        <stage_y type="float">-3756.35</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_126</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_127">
+      <DAMoveStage>
+        <stage_x type="float">-3818.77</stage_x>
+        <stage_y type="float">-4124.59</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_127</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_128">
+      <DAMoveStage>
+        <stage_x type="float">-3826.79</stage_x>
+        <stage_y type="float">-4491.04</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_128</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_129">
+      <DAMoveStage>
+        <stage_x type="float">-3840.16</stage_x>
+        <stage_y type="float">-4872.65</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_129</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_130">
+      <DAMoveStage>
+        <stage_x type="float">-3864.39</stage_x>
+        <stage_y type="float">-5239.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_130</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_131">
+      <DAMoveStage>
+        <stage_x type="float">-4667.58</stage_x>
+        <stage_y type="float">-732.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_131</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_132">
+      <DAMoveStage>
+        <stage_x type="float">-4574.85</stage_x>
+        <stage_y type="float">-1085.09</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_132</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_133">
+      <DAMoveStage>
+        <stage_x type="float">-4486.58</stage_x>
+        <stage_y type="float">-1431.03</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_133</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_134">
+      <DAMoveStage>
+        <stage_x type="float">-4410.79</stage_x>
+        <stage_y type="float">-1780.55</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_134</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_135">
+      <DAMoveStage>
+        <stage_x type="float">-4353.73</stage_x>
+        <stage_y type="float">-2134.51</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_135</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_136">
+      <DAMoveStage>
+        <stage_x type="float">-4309.15</stage_x>
+        <stage_y type="float">-2495.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_136</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_137">
+      <DAMoveStage>
+        <stage_x type="float">-4277.94</stage_x>
+        <stage_y type="float">-2854.04</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_137</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_138">
+      <DAMoveStage>
+        <stage_x type="float">-4265.46</stage_x>
+        <stage_y type="float">-3224.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_138</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_139">
+      <DAMoveStage>
+        <stage_x type="float">-4268.14</stage_x>
+        <stage_y type="float">-3593.19</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_139</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_140">
+      <DAMoveStage>
+        <stage_x type="float">-4292.21</stage_x>
+        <stage_y type="float">-3961.42</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_140</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_141">
+      <DAMoveStage>
+        <stage_x type="float">-4323.42</stage_x>
+        <stage_y type="float">-4333.22</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_141</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_142">
+      <DAMoveStage>
+        <stage_x type="float">-4380.48</stage_x>
+        <stage_y type="float">-4690.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_142</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_143">
+      <DAMoveStage>
+        <stage_x type="float">-5120.81</stage_x>
+        <stage_y type="float">-756.38</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_143</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_144">
+      <DAMoveStage>
+        <stage_x type="float">-5038.34</stage_x>
+        <stage_y type="float">-1104.11</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_144</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_145">
+      <DAMoveStage>
+        <stage_x type="float">-4954.38</stage_x>
+        <stage_y type="float">-1449.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_145</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_146">
+      <DAMoveStage>
+        <stage_x type="float">-4871.16</stage_x>
+        <stage_y type="float">-1798.82</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_146</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_147">
+      <DAMoveStage>
+        <stage_x type="float">-4807.26</stage_x>
+        <stage_y type="float">-2155.47</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_147</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_148">
+      <DAMoveStage>
+        <stage_x type="float">-4749.31</stage_x>
+        <stage_y type="float">-2505.42</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_148</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_149">
+      <DAMoveStage>
+        <stage_x type="float">-4704.73</stage_x>
+        <stage_y type="float">-2862.81</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_149</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_150">
+      <DAMoveStage>
+        <stage_x type="float">-4678.72</stage_x>
+        <stage_y type="float">-3222.43</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_150</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_151">
+      <DAMoveStage>
+        <stage_x type="float">-4682.44</stage_x>
+        <stage_y type="float">-3594.67</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_151</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_152">
+      <DAMoveStage>
+        <stage_x type="float">-4706.96</stage_x>
+        <stage_y type="float">-3956.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_152</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_153">
+      <DAMoveStage>
+        <stage_x type="float">-4750.05</stage_x>
+        <stage_y type="float">-4317.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_153</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_154">
+      <DAMoveStage>
+        <stage_x type="float">-4804.29</stage_x>
+        <stage_y type="float">-4697.3</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_154</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_155">
+      <DAMoveStage>
+        <stage_x type="float">-4865.96</stage_x>
+        <stage_y type="float">-5058.4</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_155</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_156">
+      <DAMoveStage>
+        <stage_x type="float">-4946.21</stage_x>
+        <stage_y type="float">-5422.48</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_156</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_157">
+      <DAMoveStage>
+        <stage_x type="float">-5041.31</stage_x>
+        <stage_y type="float">-5775.4</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_157</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_158">
+      <DAMoveStage>
+        <stage_x type="float">-2785.39</stage_x>
+        <stage_y type="float">255.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_158</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_159">
+      <DAMoveStage>
+        <stage_x type="float">-2684.64</stage_x>
+        <stage_y type="float">-84.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_159</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_160">
+      <DAMoveStage>
+        <stage_x type="float">-2595.48</stage_x>
+        <stage_y type="float">-441.35</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_160</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_161">
+      <DAMoveStage>
+        <stage_x type="float">-2526.82</stage_x>
+        <stage_y type="float">-797.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_161</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_162">
+      <DAMoveStage>
+        <stage_x type="float">-2458.17</stage_x>
+        <stage_y type="float">-1147.5</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_162</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_163">
+      <DAMoveStage>
+        <stage_x type="float">-2392.19</stage_x>
+        <stage_y type="float">-1515.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_163</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_164">
+      <DAMoveStage>
+        <stage_x type="float">-2320.86</stage_x>
+        <stage_y type="float">-1878.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_164</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_165">
+      <DAMoveStage>
+        <stage_x type="float">-2250.42</stage_x>
+        <stage_y type="float">-2239.72</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_165</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_166">
+      <DAMoveStage>
+        <stage_x type="float">-2197.82</stage_x>
+        <stage_y type="float">-2602.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_166</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_167">
+      <DAMoveStage>
+        <stage_x type="float">-2155.91</stage_x>
+        <stage_y type="float">-2965.5</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_167</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_168">
+      <DAMoveStage>
+        <stage_x type="float">-2135.41</stage_x>
+        <stage_y type="float">-3331.95</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_168</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_169">
+      <DAMoveStage>
+        <stage_x type="float">-2145.21</stage_x>
+        <stage_y type="float">-3698.4</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_169</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_170">
+      <DAMoveStage>
+        <stage_x type="float">-2177.31</stage_x>
+        <stage_y type="float">-4059.5</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_170</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_171">
+      <DAMoveStage>
+        <stage_x type="float">-2223.68</stage_x>
+        <stage_y type="float">-4425.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_171</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_172">
+      <DAMoveStage>
+        <stage_x type="float">-2283.41</stage_x>
+        <stage_y type="float">-4791.51</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_172</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_173">
+      <DAMoveStage>
+        <stage_x type="float">-2349.39</stage_x>
+        <stage_y type="float">-5150.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_173</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_174">
+      <DAMoveStage>
+        <stage_x type="float">-2508.4</stage_x>
+        <stage_y type="float">708.09</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_174</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_175">
+      <DAMoveStage>
+        <stage_x type="float">-2364.25</stage_x>
+        <stage_y type="float">376.71</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_175</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_176">
+      <DAMoveStage>
+        <stage_x type="float">-2234.97</stage_x>
+        <stage_y type="float">35.66</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_176</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_177">
+      <DAMoveStage>
+        <stage_x type="float">-2114.6</stage_x>
+        <stage_y type="float">-302.4</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_177</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_178">
+      <DAMoveStage>
+        <stage_x type="float">-2008.35</stage_x>
+        <stage_y type="float">-651.62</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_178</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_179">
+      <DAMoveStage>
+        <stage_x type="float">-1913.99</stage_x>
+        <stage_y type="float">-999.35</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_179</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_180">
+      <DAMoveStage>
+        <stage_x type="float">-1832.26</stage_x>
+        <stage_y type="float">-1349.3</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_180</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_181">
+      <DAMoveStage>
+        <stage_x type="float">-1772.82</stage_x>
+        <stage_y type="float">-1708.18</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_181</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_182">
+      <DAMoveStage>
+        <stage_x type="float">-1723.78</stage_x>
+        <stage_y type="float">-2070.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_182</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_183">
+      <DAMoveStage>
+        <stage_x type="float">-1693.32</stage_x>
+        <stage_y type="float">-2434.84</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_183</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_184">
+      <DAMoveStage>
+        <stage_x type="float">-1668.8</stage_x>
+        <stage_y type="float">-2809.31</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_184</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_185">
+      <DAMoveStage>
+        <stage_x type="float">-1675.48</stage_x>
+        <stage_y type="float">-3171.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_185</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_186">
+      <DAMoveStage>
+        <stage_x type="float">-1695.55</stage_x>
+        <stage_y type="float">-3535.23</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_186</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_187">
+      <DAMoveStage>
+        <stage_x type="float">-1739.38</stage_x>
+        <stage_y type="float">-3900.05</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_187</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_188">
+      <DAMoveStage>
+        <stage_x type="float">-1460.75</stage_x>
+        <stage_y type="float">-1082.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_188</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_189">
+      <DAMoveStage>
+        <stage_x type="float">-1408.0</stage_x>
+        <stage_y type="float">-1443.6</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_189</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_190">
+      <DAMoveStage>
+        <stage_x type="float">-1359.71</stage_x>
+        <stage_y type="float">-1809.23</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_190</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_191">
+      <DAMoveStage>
+        <stage_x type="float">-1293.58</stage_x>
+        <stage_y type="float">-2143.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_191</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_192">
+      <DAMoveStage>
+        <stage_x type="float">-1251.97</stage_x>
+        <stage_y type="float">-2500.22</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_192</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_193">
+      <DAMoveStage>
+        <stage_x type="float">-1215.56</stage_x>
+        <stage_y type="float">-2870.98</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_193</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_194">
+      <DAMoveStage>
+        <stage_x type="float">-1195.5</stage_x>
+        <stage_y type="float">-3234.32</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_194</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_195">
+      <DAMoveStage>
+        <stage_x type="float">-1185.84</stage_x>
+        <stage_y type="float">-3596.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_195</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_196">
+      <DAMoveStage>
+        <stage_x type="float">-1203.67</stage_x>
+        <stage_y type="float">-3966.92</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_196</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_197">
+      <DAMoveStage>
+        <stage_x type="float">-1234.14</stage_x>
+        <stage_y type="float">-4338.43</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_197</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_198">
+      <DAMoveStage>
+        <stage_x type="float">-1295.81</stage_x>
+        <stage_y type="float">-4700.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_198</name>
+        <length type="int">10000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+</sequence>

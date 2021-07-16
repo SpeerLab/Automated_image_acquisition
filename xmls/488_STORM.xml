@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+  <loop name = "storm" increment = "name">	
+  	<item name = "488storm"></item>
+  </loop>
+</command_sequence>
+
+<item name = "488storm">
+  <movie>
+    <name increment = "Yes">488storm</name>
+    <length>20</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>10</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>2000</min_spots>
+  </movie>
+</item>
+
+<loop_variable name = "storm">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+</recipe>
+

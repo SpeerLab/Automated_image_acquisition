@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+  <loop name = "Regbead1" increment = "name">	
+  <item name = "IRbead1"></item>
+  <item name = "Visbead1"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRbead1">
+  <movie>
+    <name increment = "Yes">IRbead_1</name>
+    <length>50</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>1</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "Regbead1"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Visbead1">
+  <movie>
+    <name increment = "Yes">Visbead_1</name>
+    <length>105</length>
+    <lock_target>1200.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>2</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "Regbead1"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "Regbead1">
+   <file_path>bead_field_1.txt</file_path>
+</loop_variable>
+
+<command_sequence>
+  <loop name = "conv" increment = "name">	
+  	<item name = "IRconv"></item>
+	<item name = "Visconv"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRconv">
+  <movie>
+    <name increment = "Yes">IRconv</name>
+    <length>10</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>4</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "conv"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Visconv">
+  <movie>
+    <name increment = "Yes">Visconv</name>
+    <length>20</length>
+    <lock_target>300.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>3</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "conv"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "conv">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+<command_sequence>
+  <loop name = "FFC" increment = "name">	
+  <item name = "IRFFC"></item>
+  <item name = "VisFFC"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRFFC">
+  <movie>
+    <name increment = "Yes">IRFFC</name>
+    <length>10</length>
+    <lock_target>0.0</lock_target>
+   <find_sum>1.0</find_sum>
+    <parameters>5</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "FFC"></variable_entry>
+  </movie>
+</item>
+
+<item name = "VisFFC">
+  <movie>
+    <name increment = "Yes">VisFFC</name>
+    <length>60</length>
+    <lock_target>1200.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>6</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "FFC"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "FFC">
+   <file_path>FFC_bead_field.txt</file_path>
+</loop_variable>
+
+
+<command_sequence>
+  <loop name = "Regbead2" increment = "name">	
+  <item name = "IRbead2"></item>
+  <item name = "Visbead2"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRbead2">
+  <movie>
+    <name increment = "Yes">IRbead_2</name>
+    <length>50</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>1</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "Regbead2"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Visbead2">
+  <movie>
+    <name increment = "Yes">Visbead_2</name>
+    <length>105</length>
+    <lock_target>300.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>2</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "Regbead2"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "Regbead2">
+   <file_path>bead_field_2.txt</file_path>
+</loop_variable>
+
+<command_sequence>
+  <loop name = "storm" increment = "name">	
+  	<item name = "750storm"></item>
+	<item name = "647storm"></item>
+  </loop>
+</command_sequence>
+
+<item name = "750storm">
+  <movie>
+    <name increment = "Yes">750storm</name>
+    <length>8000</length>
+    <lock_target>-100.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>7</parameters>
+    <delay>2000</delay>
+    <progression><type>file</type>
+    <filename>C:\Users\Sperry\Desktop\acquisition\create_xml\powertest\750storm_0001.power</filename>
+    </progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>500</min_spots>
+  </movie>
+</item>
+
+<item name = "647storm">
+  <movie>
+    <name increment = "Yes">647storm</name>
+    <length>8000</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>8</parameters>
+    <delay>2000</delay>
+    <progression><type>file</type>
+    <filename>C:\Users\Sperry\Desktop\acquisition\create_xml\powertest\647storm_0001.power</filename>
+    </progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>50</min_spots>
+  </movie>
+</item>
+
+<loop_variable name = "storm">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+<!--
+<command_sequence>
+  <loop name = "storm" increment = "name">	
+  	<item name = "488storm"></item>
+  </loop>
+</command_sequence>
+
+<item name = "488storm">
+  <movie>
+    <name increment = "Yes">488storm</name>
+    <length>4000</length>
+    <lock_target>-80.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>10</parameters>
+    <delay>2000</delay>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>500</min_spots>
+  </movie>
+</item>
+
+<loop_variable name = "storm">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+<command_sequence>
+  <loop name = "storm" increment = "name">	
+  	<item name = "561storm"></item>
+  </loop>
+</command_sequence>
+
+<item name = "561storm">
+  <movie>
+    <name increment = "Yes">561storm</name>
+    <length>6000</length>
+    <lock_target>-40.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>9</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>2000</min_spots>
+  </movie>
+</item>
+-->
+
+<loop_variable name = "storm">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+</recipe>
+

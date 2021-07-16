@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<loop_variable name = "conv">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+<command_sequence>
+  <loop name = "FFC" increment = "name">	
+  <item name = "IRFFC"></item>
+  <item name = "VisFFC"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRFFC">
+  <movie>
+    <name increment = "Yes">IRFFC</name>
+    <length>10</length>
+    <lock_target>0.0</lock_target>
+   <find_sum>1.0</find_sum>
+    <parameters>5</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "FFC"></variable_entry>
+  </movie>
+</item>
+
+<item name = "VisFFC">
+  <movie>
+    <name increment = "Yes">VisFFC</name>
+    <length>60</length>
+    <lock_target>1100.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>6</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "FFC"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "FFC">
+   <file_path>FFC_bead_field.txt</file_path>
+</loop_variable>
+
+
+</recipe>
+

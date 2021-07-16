@@ -1,0 +1,4487 @@
+<sequence>
+  
+
+  <branch name="Regbead1">
+    <branch name="Regbead_1_00">
+      <DAMoveStage>
+        <stage_x type="float">-581.28</stage_x>
+        <stage_y type="float">-2999.56</stage_y>
+      </DAMoveStage>
+      <DAPause /><DAPause /><DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_00</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_01">
+      <DAMoveStage>
+        <stage_x type="float">-581.28</stage_x>
+        <stage_y type="float">-2992.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_01</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_02">
+      <DAMoveStage>
+        <stage_x type="float">-581.28</stage_x>
+        <stage_y type="float">-2985.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_02</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_03">
+      <DAMoveStage>
+        <stage_x type="float">-581.28</stage_x>
+        <stage_y type="float">-2978.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_03</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_04">
+      <DAMoveStage>
+        <stage_x type="float">-574.28</stage_x>
+        <stage_y type="float">-2999.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_04</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_05">
+      <DAMoveStage>
+        <stage_x type="float">-574.28</stage_x>
+        <stage_y type="float">-2992.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_05</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_06">
+      <DAMoveStage>
+        <stage_x type="float">-574.28</stage_x>
+        <stage_y type="float">-2985.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_06</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_07">
+      <DAMoveStage>
+        <stage_x type="float">-574.28</stage_x>
+        <stage_y type="float">-2978.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_07</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_08">
+      <DAMoveStage>
+        <stage_x type="float">-567.28</stage_x>
+        <stage_y type="float">-2999.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_08</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_09">
+      <DAMoveStage>
+        <stage_x type="float">-567.28</stage_x>
+        <stage_y type="float">-2992.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_09</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_10">
+      <DAMoveStage>
+        <stage_x type="float">-567.28</stage_x>
+        <stage_y type="float">-2985.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_10</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_11">
+      <DAMoveStage>
+        <stage_x type="float">-567.28</stage_x>
+        <stage_y type="float">-2978.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_11</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_12">
+      <DAMoveStage>
+        <stage_x type="float">-560.28</stage_x>
+        <stage_y type="float">-2999.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_12</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_13">
+      <DAMoveStage>
+        <stage_x type="float">-560.28</stage_x>
+        <stage_y type="float">-2992.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_13</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_14">
+      <DAMoveStage>
+        <stage_x type="float">-560.28</stage_x>
+        <stage_y type="float">-2985.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_14</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_1_15">
+      <DAMoveStage>
+        <stage_x type="float">-560.28</stage_x>
+        <stage_y type="float">-2978.56</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_1_15</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+  <branch name="Conv">
+    <branch name="Conv_00">
+      <DAMoveStage>
+        <stage_x type="float">-3151.35</stage_x>
+        <stage_y type="float">184.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_00</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_01">
+      <DAMoveStage>
+        <stage_x type="float">-3460.01</stage_x>
+        <stage_y type="float">67.93</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_01</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_02">
+      <DAMoveStage>
+        <stage_x type="float">-3771.55</stage_x>
+        <stage_y type="float">-48.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_02</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_03">
+      <DAMoveStage>
+        <stage_x type="float">-4082.76</stage_x>
+        <stage_y type="float">-155.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_03</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_04">
+      <DAMoveStage>
+        <stage_x type="float">-4397.52</stage_x>
+        <stage_y type="float">-259.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_04</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_05">
+      <DAMoveStage>
+        <stage_x type="float">-4713.72</stage_x>
+        <stage_y type="float">-363.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_05</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_06">
+      <DAMoveStage>
+        <stage_x type="float">-5033.2</stage_x>
+        <stage_y type="float">-463.8</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_06</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_07">
+      <DAMoveStage>
+        <stage_x type="float">-5349.72</stage_x>
+        <stage_y type="float">-561.08</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_07</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_08">
+      <DAMoveStage>
+        <stage_x type="float">-5671.44</stage_x>
+        <stage_y type="float">-655.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_08</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_09">
+      <DAMoveStage>
+        <stage_x type="float">-5991.32</stage_x>
+        <stage_y type="float">-747.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_09</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_10">
+      <DAMoveStage>
+        <stage_x type="float">-6314.11</stage_x>
+        <stage_y type="float">-835.25</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_10</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_11">
+      <DAMoveStage>
+        <stage_x type="float">-6637.77</stage_x>
+        <stage_y type="float">-922.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_11</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_12">
+      <DAMoveStage>
+        <stage_x type="float">-6962.83</stage_x>
+        <stage_y type="float">-1004.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_12</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_13">
+      <DAMoveStage>
+        <stage_x type="float">-7289.57</stage_x>
+        <stage_y type="float">-1085.53</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_13</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_14">
+      <DAMoveStage>
+        <stage_x type="float">-7614.1</stage_x>
+        <stage_y type="float">-1161.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_14</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_15">
+      <DAMoveStage>
+        <stage_x type="float">-7941.92</stage_x>
+        <stage_y type="float">-1233.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_15</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_16">
+      <DAMoveStage>
+        <stage_x type="float">-8270.93</stage_x>
+        <stage_y type="float">-1305.79</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_16</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_17">
+      <DAMoveStage>
+        <stage_x type="float">-8600.88</stage_x>
+        <stage_y type="float">-1373.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_17</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_18">
+      <DAMoveStage>
+        <stage_x type="float">-8927.16</stage_x>
+        <stage_y type="float">-1440.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_18</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_19">
+      <DAMoveStage>
+        <stage_x type="float">-9257.18</stage_x>
+        <stage_y type="float">-1501.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_19</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_20">
+      <DAMoveStage>
+        <stage_x type="float">-9587.5</stage_x>
+        <stage_y type="float">-1557.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_20</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_21">
+      <DAMoveStage>
+        <stage_x type="float">-9919.44</stage_x>
+        <stage_y type="float">-1609.45</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_21</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_22">
+      <DAMoveStage>
+        <stage_x type="float">-10250.5</stage_x>
+        <stage_y type="float">-1659.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_22</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_23">
+      <DAMoveStage>
+        <stage_x type="float">-10581.6</stage_x>
+        <stage_y type="float">-1706.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_23</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Conv_24">
+      <DAMoveStage>
+        <stage_x type="float">-10913.1</stage_x>
+        <stage_y type="float">-1750.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-300.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">2</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Conv_24</name>
+        <length type="int">20</length>
+        <parameters type="int">2</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+  <branch name="FFC">
+    <branch name="FFC_0">
+      <DAMoveStage>
+        <stage_x type="float">-144.83</stage_x>
+        <stage_y type="float">-215.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_1">
+      <DAMoveStage>
+        <stage_x type="float">-144.83</stage_x>
+        <stage_y type="float">-195.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_2">
+      <DAMoveStage>
+        <stage_x type="float">-144.83</stage_x>
+        <stage_y type="float">-175.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_3">
+      <DAMoveStage>
+        <stage_x type="float">-124.83</stage_x>
+        <stage_y type="float">-215.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_4">
+      <DAMoveStage>
+        <stage_x type="float">-124.83</stage_x>
+        <stage_y type="float">-195.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_5">
+      <DAMoveStage>
+        <stage_x type="float">-124.83</stage_x>
+        <stage_y type="float">-175.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_6">
+      <DAMoveStage>
+        <stage_x type="float">-104.83</stage_x>
+        <stage_y type="float">-215.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_7">
+      <DAMoveStage>
+        <stage_x type="float">-104.83</stage_x>
+        <stage_y type="float">-195.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+    <branch name="FFC_8">
+      <DAMoveStage>
+        <stage_x type="float">-104.83</stage_x>
+        <stage_y type="float">-175.7</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">900.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">3</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+    </branch>
+  </branch>
+  <branch name="Regbead2">
+    <branch name="Regbead_2_00">
+      <DAMoveStage>
+        <stage_x type="float">-543.56</stage_x>
+        <stage_y type="float">-2695.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_00</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_01">
+      <DAMoveStage>
+        <stage_x type="float">-543.56</stage_x>
+        <stage_y type="float">-2688.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_01</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_02">
+      <DAMoveStage>
+        <stage_x type="float">-543.56</stage_x>
+        <stage_y type="float">-2681.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_02</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_03">
+      <DAMoveStage>
+        <stage_x type="float">-543.56</stage_x>
+        <stage_y type="float">-2674.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_03</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_04">
+      <DAMoveStage>
+        <stage_x type="float">-536.56</stage_x>
+        <stage_y type="float">-2695.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_04</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_05">
+      <DAMoveStage>
+        <stage_x type="float">-536.56</stage_x>
+        <stage_y type="float">-2688.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_05</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_06">
+      <DAMoveStage>
+        <stage_x type="float">-536.56</stage_x>
+        <stage_y type="float">-2681.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_06</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_07">
+      <DAMoveStage>
+        <stage_x type="float">-536.56</stage_x>
+        <stage_y type="float">-2674.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_07</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_08">
+      <DAMoveStage>
+        <stage_x type="float">-529.56</stage_x>
+        <stage_y type="float">-2695.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_08</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_09">
+      <DAMoveStage>
+        <stage_x type="float">-529.56</stage_x>
+        <stage_y type="float">-2688.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_09</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_10">
+      <DAMoveStage>
+        <stage_x type="float">-529.56</stage_x>
+        <stage_y type="float">-2681.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_10</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_11">
+      <DAMoveStage>
+        <stage_x type="float">-529.56</stage_x>
+        <stage_y type="float">-2674.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_11</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_12">
+      <DAMoveStage>
+        <stage_x type="float">-522.56</stage_x>
+        <stage_y type="float">-2695.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_12</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_13">
+      <DAMoveStage>
+        <stage_x type="float">-522.56</stage_x>
+        <stage_y type="float">-2688.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_13</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_14">
+      <DAMoveStage>
+        <stage_x type="float">-522.56</stage_x>
+        <stage_y type="float">-2681.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_14</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="Regbead_2_15">
+      <DAMoveStage>
+        <stage_x type="float">-522.56</stage_x>
+        <stage_y type="float">-2674.61</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">1</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>lockedout</type>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">Regbead_2_15</name>
+        <length type="int">120</length>
+        <parameters type="int">1</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+  <branch name="storm">
+    <branch name="750storm_00">
+      <DAMoveStage>
+        <stage_x type="float">-3151.35</stage_x>
+        <stage_y type="float">184.9</stage_y>
+      </DAMoveStage>
+      <DAPause /><DAPause /><DAPause /><DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_00</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_00">
+      <DAMoveStage>
+        <stage_x type="float">-3151.35</stage_x>
+        <stage_y type="float">184.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_00</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_01">
+      <DAMoveStage>
+        <stage_x type="float">-3460.01</stage_x>
+        <stage_y type="float">67.93</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_01</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_01">
+      <DAMoveStage>
+        <stage_x type="float">-3460.01</stage_x>
+        <stage_y type="float">67.93</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_01</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_02">
+      <DAMoveStage>
+        <stage_x type="float">-3771.55</stage_x>
+        <stage_y type="float">-48.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_02</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_02">
+      <DAMoveStage>
+        <stage_x type="float">-3771.55</stage_x>
+        <stage_y type="float">-48.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_02</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_03">
+      <DAMoveStage>
+        <stage_x type="float">-4082.76</stage_x>
+        <stage_y type="float">-155.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_03</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_03">
+      <DAMoveStage>
+        <stage_x type="float">-4082.76</stage_x>
+        <stage_y type="float">-155.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_03</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_04">
+      <DAMoveStage>
+        <stage_x type="float">-4397.52</stage_x>
+        <stage_y type="float">-259.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_04</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_04">
+      <DAMoveStage>
+        <stage_x type="float">-4397.52</stage_x>
+        <stage_y type="float">-259.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_04</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_05">
+      <DAMoveStage>
+        <stage_x type="float">-4713.72</stage_x>
+        <stage_y type="float">-363.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_05</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_05">
+      <DAMoveStage>
+        <stage_x type="float">-4713.72</stage_x>
+        <stage_y type="float">-363.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_05</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_06">
+      <DAMoveStage>
+        <stage_x type="float">-5033.2</stage_x>
+        <stage_y type="float">-463.8</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_06</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_06">
+      <DAMoveStage>
+        <stage_x type="float">-5033.2</stage_x>
+        <stage_y type="float">-463.8</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_06</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_07">
+      <DAMoveStage>
+        <stage_x type="float">-5349.72</stage_x>
+        <stage_y type="float">-561.08</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_07</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_07">
+      <DAMoveStage>
+        <stage_x type="float">-5349.72</stage_x>
+        <stage_y type="float">-561.08</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_07</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_08">
+      <DAMoveStage>
+        <stage_x type="float">-5671.44</stage_x>
+        <stage_y type="float">-655.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_08</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_08">
+      <DAMoveStage>
+        <stage_x type="float">-5671.44</stage_x>
+        <stage_y type="float">-655.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_08</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_09">
+      <DAMoveStage>
+        <stage_x type="float">-5991.32</stage_x>
+        <stage_y type="float">-747.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_09</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_09">
+      <DAMoveStage>
+        <stage_x type="float">-5991.32</stage_x>
+        <stage_y type="float">-747.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_09</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_10">
+      <DAMoveStage>
+        <stage_x type="float">-6314.11</stage_x>
+        <stage_y type="float">-835.25</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_10</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_10">
+      <DAMoveStage>
+        <stage_x type="float">-6314.11</stage_x>
+        <stage_y type="float">-835.25</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_10</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_11">
+      <DAMoveStage>
+        <stage_x type="float">-6637.77</stage_x>
+        <stage_y type="float">-922.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_11</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_11">
+      <DAMoveStage>
+        <stage_x type="float">-6637.77</stage_x>
+        <stage_y type="float">-922.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_11</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_12">
+      <DAMoveStage>
+        <stage_x type="float">-6962.83</stage_x>
+        <stage_y type="float">-1004.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_12</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_12">
+      <DAMoveStage>
+        <stage_x type="float">-6962.83</stage_x>
+        <stage_y type="float">-1004.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_12</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_13">
+      <DAMoveStage>
+        <stage_x type="float">-7289.57</stage_x>
+        <stage_y type="float">-1085.53</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_13</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_13">
+      <DAMoveStage>
+        <stage_x type="float">-7289.57</stage_x>
+        <stage_y type="float">-1085.53</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_13</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_14">
+      <DAMoveStage>
+        <stage_x type="float">-7614.1</stage_x>
+        <stage_y type="float">-1161.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_14</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_14">
+      <DAMoveStage>
+        <stage_x type="float">-7614.1</stage_x>
+        <stage_y type="float">-1161.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_14</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_15">
+      <DAMoveStage>
+        <stage_x type="float">-7941.92</stage_x>
+        <stage_y type="float">-1233.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_15</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_15">
+      <DAMoveStage>
+        <stage_x type="float">-7941.92</stage_x>
+        <stage_y type="float">-1233.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_15</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_16">
+      <DAMoveStage>
+        <stage_x type="float">-8270.93</stage_x>
+        <stage_y type="float">-1305.79</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_16</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_16">
+      <DAMoveStage>
+        <stage_x type="float">-8270.93</stage_x>
+        <stage_y type="float">-1305.79</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_16</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_17">
+      <DAMoveStage>
+        <stage_x type="float">-8600.88</stage_x>
+        <stage_y type="float">-1373.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_17</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_17">
+      <DAMoveStage>
+        <stage_x type="float">-8600.88</stage_x>
+        <stage_y type="float">-1373.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_17</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_18">
+      <DAMoveStage>
+        <stage_x type="float">-8927.16</stage_x>
+        <stage_y type="float">-1440.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_18</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_18">
+      <DAMoveStage>
+        <stage_x type="float">-8927.16</stage_x>
+        <stage_y type="float">-1440.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_18</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_19">
+      <DAMoveStage>
+        <stage_x type="float">-9257.18</stage_x>
+        <stage_y type="float">-1501.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_19</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_19">
+      <DAMoveStage>
+        <stage_x type="float">-9257.18</stage_x>
+        <stage_y type="float">-1501.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_19</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_20">
+      <DAMoveStage>
+        <stage_x type="float">-9587.5</stage_x>
+        <stage_y type="float">-1557.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_20</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_20">
+      <DAMoveStage>
+        <stage_x type="float">-9587.5</stage_x>
+        <stage_y type="float">-1557.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_20</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_21">
+      <DAMoveStage>
+        <stage_x type="float">-9919.44</stage_x>
+        <stage_y type="float">-1609.45</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_21</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_21">
+      <DAMoveStage>
+        <stage_x type="float">-9919.44</stage_x>
+        <stage_y type="float">-1609.45</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_21</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_22">
+      <DAMoveStage>
+        <stage_x type="float">-10250.5</stage_x>
+        <stage_y type="float">-1659.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_22</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_22">
+      <DAMoveStage>
+        <stage_x type="float">-10250.5</stage_x>
+        <stage_y type="float">-1659.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_22</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_23">
+      <DAMoveStage>
+        <stage_x type="float">-10581.6</stage_x>
+        <stage_y type="float">-1706.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_23</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_23">
+      <DAMoveStage>
+        <stage_x type="float">-10581.6</stage_x>
+        <stage_y type="float">-1706.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_23</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="750storm_24">
+      <DAMoveStage>
+        <stage_x type="float">-10913.1</stage_x>
+        <stage_y type="float">-1750.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-1200.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">4</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\750storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">750storm_24</name>
+        <length type="int">9000</length>
+        <min_spots type="int">0</min_spots>
+        <parameters type="int">4</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="647storm_24">
+      <DAMoveStage>
+        <stage_x type="float">-10913.1</stage_x>
+        <stage_y type="float">-1750.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-950.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">5</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\647storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">647storm_24</name>
+        <length type="int">9000</length>
+        <min_spots type="int">100</min_spots>
+        <parameters type="int">5</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+  <branch name="storm">
+    <branch name="561storm_00">
+      <DAMoveStage>
+        <stage_x type="float">-3151.35</stage_x>
+        <stage_y type="float">184.9</stage_y>
+      </DAMoveStage>
+      <DAPause /><DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_00</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_00">
+      <DAMoveStage>
+        <stage_x type="float">-3151.35</stage_x>
+        <stage_y type="float">184.9</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_00</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_01">
+      <DAMoveStage>
+        <stage_x type="float">-3460.01</stage_x>
+        <stage_y type="float">67.93</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_01</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_01">
+      <DAMoveStage>
+        <stage_x type="float">-3460.01</stage_x>
+        <stage_y type="float">67.93</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_01</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_02">
+      <DAMoveStage>
+        <stage_x type="float">-3771.55</stage_x>
+        <stage_y type="float">-48.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_02</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_02">
+      <DAMoveStage>
+        <stage_x type="float">-3771.55</stage_x>
+        <stage_y type="float">-48.27</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_02</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_03">
+      <DAMoveStage>
+        <stage_x type="float">-4082.76</stage_x>
+        <stage_y type="float">-155.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_03</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_03">
+      <DAMoveStage>
+        <stage_x type="float">-4082.76</stage_x>
+        <stage_y type="float">-155.52</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_03</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_04">
+      <DAMoveStage>
+        <stage_x type="float">-4397.52</stage_x>
+        <stage_y type="float">-259.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_04</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_04">
+      <DAMoveStage>
+        <stage_x type="float">-4397.52</stage_x>
+        <stage_y type="float">-259.68</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_04</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_05">
+      <DAMoveStage>
+        <stage_x type="float">-4713.72</stage_x>
+        <stage_y type="float">-363.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_05</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_05">
+      <DAMoveStage>
+        <stage_x type="float">-4713.72</stage_x>
+        <stage_y type="float">-363.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_05</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_06">
+      <DAMoveStage>
+        <stage_x type="float">-5033.2</stage_x>
+        <stage_y type="float">-463.8</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_06</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_06">
+      <DAMoveStage>
+        <stage_x type="float">-5033.2</stage_x>
+        <stage_y type="float">-463.8</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_06</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_07">
+      <DAMoveStage>
+        <stage_x type="float">-5349.72</stage_x>
+        <stage_y type="float">-561.08</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_07</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_07">
+      <DAMoveStage>
+        <stage_x type="float">-5349.72</stage_x>
+        <stage_y type="float">-561.08</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_07</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_08">
+      <DAMoveStage>
+        <stage_x type="float">-5671.44</stage_x>
+        <stage_y type="float">-655.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_08</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_08">
+      <DAMoveStage>
+        <stage_x type="float">-5671.44</stage_x>
+        <stage_y type="float">-655.49</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_08</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_09">
+      <DAMoveStage>
+        <stage_x type="float">-5991.32</stage_x>
+        <stage_y type="float">-747.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_09</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_09">
+      <DAMoveStage>
+        <stage_x type="float">-5991.32</stage_x>
+        <stage_y type="float">-747.01</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_09</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_10">
+      <DAMoveStage>
+        <stage_x type="float">-6314.11</stage_x>
+        <stage_y type="float">-835.25</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_10</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_10">
+      <DAMoveStage>
+        <stage_x type="float">-6314.11</stage_x>
+        <stage_y type="float">-835.25</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_10</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_11">
+      <DAMoveStage>
+        <stage_x type="float">-6637.77</stage_x>
+        <stage_y type="float">-922.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_11</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_11">
+      <DAMoveStage>
+        <stage_x type="float">-6637.77</stage_x>
+        <stage_y type="float">-922.06</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_11</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_12">
+      <DAMoveStage>
+        <stage_x type="float">-6962.83</stage_x>
+        <stage_y type="float">-1004.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_12</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_12">
+      <DAMoveStage>
+        <stage_x type="float">-6962.83</stage_x>
+        <stage_y type="float">-1004.83</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_12</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_13">
+      <DAMoveStage>
+        <stage_x type="float">-7289.57</stage_x>
+        <stage_y type="float">-1085.53</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_13</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_13">
+      <DAMoveStage>
+        <stage_x type="float">-7289.57</stage_x>
+        <stage_y type="float">-1085.53</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_13</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_14">
+      <DAMoveStage>
+        <stage_x type="float">-7614.1</stage_x>
+        <stage_y type="float">-1161.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_14</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_14">
+      <DAMoveStage>
+        <stage_x type="float">-7614.1</stage_x>
+        <stage_y type="float">-1161.0</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_14</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_15">
+      <DAMoveStage>
+        <stage_x type="float">-7941.92</stage_x>
+        <stage_y type="float">-1233.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_15</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_15">
+      <DAMoveStage>
+        <stage_x type="float">-7941.92</stage_x>
+        <stage_y type="float">-1233.58</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_15</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_16">
+      <DAMoveStage>
+        <stage_x type="float">-8270.93</stage_x>
+        <stage_y type="float">-1305.79</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_16</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_16">
+      <DAMoveStage>
+        <stage_x type="float">-8270.93</stage_x>
+        <stage_y type="float">-1305.79</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_16</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_17">
+      <DAMoveStage>
+        <stage_x type="float">-8600.88</stage_x>
+        <stage_y type="float">-1373.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_17</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_17">
+      <DAMoveStage>
+        <stage_x type="float">-8600.88</stage_x>
+        <stage_y type="float">-1373.76</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_17</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_18">
+      <DAMoveStage>
+        <stage_x type="float">-8927.16</stage_x>
+        <stage_y type="float">-1440.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_18</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_18">
+      <DAMoveStage>
+        <stage_x type="float">-8927.16</stage_x>
+        <stage_y type="float">-1440.24</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_18</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_19">
+      <DAMoveStage>
+        <stage_x type="float">-9257.18</stage_x>
+        <stage_y type="float">-1501.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_19</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_19">
+      <DAMoveStage>
+        <stage_x type="float">-9257.18</stage_x>
+        <stage_y type="float">-1501.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_19</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_20">
+      <DAMoveStage>
+        <stage_x type="float">-9587.5</stage_x>
+        <stage_y type="float">-1557.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_20</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_20">
+      <DAMoveStage>
+        <stage_x type="float">-9587.5</stage_x>
+        <stage_y type="float">-1557.07</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_20</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_21">
+      <DAMoveStage>
+        <stage_x type="float">-9919.44</stage_x>
+        <stage_y type="float">-1609.45</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_21</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_21">
+      <DAMoveStage>
+        <stage_x type="float">-9919.44</stage_x>
+        <stage_y type="float">-1609.45</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_21</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_22">
+      <DAMoveStage>
+        <stage_x type="float">-10250.5</stage_x>
+        <stage_y type="float">-1659.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_22</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_22">
+      <DAMoveStage>
+        <stage_x type="float">-10250.5</stage_x>
+        <stage_y type="float">-1659.74</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_22</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_23">
+      <DAMoveStage>
+        <stage_x type="float">-10581.6</stage_x>
+        <stage_y type="float">-1706.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_23</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_23">
+      <DAMoveStage>
+        <stage_x type="float">-10581.6</stage_x>
+        <stage_y type="float">-1706.2</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_23</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="561storm_24">
+      <DAMoveStage>
+        <stage_x type="float">-10913.1</stage_x>
+        <stage_y type="float">-1750.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">-400.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">6</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\561storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">561storm_24</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">6</parameters>
+      </DATakeMovie>
+    </branch>
+    <branch name="488storm_24">
+      <DAMoveStage>
+        <stage_x type="float">-10913.1</stage_x>
+        <stage_y type="float">-1750.1</stage_y>
+      </DAMoveStage>
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DAFindSum>
+        <min_sum type="float">1.0</min_sum>
+      </DAFindSum>
+      <DASetParameters>
+        <parameters type="int">7</parameters>
+      </DASetParameters>
+      <DASetProgression>
+        <type>file</type>
+        <filename>C:\Users\Sperry3\acquisition\create_xml\powertest\488storm_0001.power</filename>
+      </DASetProgression>
+      <DADelay>
+        <delay type="int">2000</delay>
+      </DADelay>
+      <DATakeMovie>
+        <name type="str">488storm_24</name>
+        <length type="int">10000</length>
+        <min_spots type="int">1</min_spots>
+        <parameters type="int">7</parameters>
+      </DATakeMovie>
+    </branch>
+  </branch>
+</sequence>

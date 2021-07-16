@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+  <loop name = "storm" increment = "name">	
+  	<item name = "750storm"></item>
+	<item name = "647storm"></item>
+  </loop>
+</command_sequence>
+
+<item name = "750storm">
+  <movie>
+    <name increment = "Yes">750storm</name>
+    <length>4000</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>7</parameters>
+    <delay>2000</delay>
+    <progression><type>file</type>
+    <filename>C:\Users\colenso\aquisition\create_xml\powertest\750storm_0001.power</filename>
+    </progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>2000</min_spots>
+  </movie>
+</item>
+
+<item name = "647storm">
+  <movie>
+    <name increment = "Yes">647storm</name>
+    <length>6000</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>8</parameters>
+    <delay>2000</delay>
+    <progression><type>file</type>
+    <filename>C:\Users\colenso\aquisition\create_xml\powertest\647storm_0001.power</filename>
+    </progression>
+    <variable_entry name = "storm"></variable_entry>
+    <min_spots>2000</min_spots>
+  </movie>
+</item>
+
+<loop_variable name = "storm">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+</recipe>
+
