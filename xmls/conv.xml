@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recipe>
+
+<command_sequence>
+  <loop name = "conv" increment = "name">	
+  	<item name = "IRconv"></item>
+	<item name = "Visconv"></item>
+  </loop>
+</command_sequence>
+
+<item name = "IRconv">
+  <movie>
+    <name increment = "Yes">IRconv</name>
+    <length>10</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>4</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "conv"></variable_entry>
+  </movie>
+</item>
+
+<item name = "Visconv">
+  <movie>
+    <name increment = "Yes">Visconv</name>
+    <length>40</length>
+    <lock_target>0.0</lock_target>
+    <find_sum>1.0</find_sum>
+    <parameters>3</parameters>
+    <delay>2000</delay>
+    <progression><type>lockedout</type></progression>
+    <variable_entry name = "conv"></variable_entry>
+  </movie>
+</item>
+
+<loop_variable name = "conv">
+   <file_path>positions.txt</file_path>
+</loop_variable>
+
+
+</recipe>
+
