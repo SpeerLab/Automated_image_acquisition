@@ -17,9 +17,4 @@ named "750storm_0001" and "647_storm_0001".
 The master_xml_generator currently takes the bead file and position file and generates two rounds of 36 tiled sparse bead fields, 
 9 tiled flat-field correction dense bead fields, N conventional movies, and N STORM movies in three colors (750/647/488).  
 
-The parameters established in the current master_xml relate to settings for a 600x600 image field specified in the acquisition/settings folder.
-Subfolders here each contain settings and shutter files for different parameter settings, here sorted by active imaging area.
-
-On 2018.7.17, 561nm channel is added to master_xml_hcam.xml. Backup file can be found in C:\Users\Sperry\Desktop\acquisition\BackUp
-
-On 1/24/2019£¬ all .xml moved to xml folder. 
+Remember to delete 'bead_field_1.txt', 'bead_field_2.txt', and 'ffc_bead_field.txt' each time before starting new acquisition. 
