@@ -1,1 +1,0 @@
-path=c:\Python27\;
