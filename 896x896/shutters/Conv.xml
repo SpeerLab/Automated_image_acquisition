@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<repeat>
+  <frames>12</frames>
+  <event>
+    <channel>0</channel>
+    <power>1</power>
+    <on>0</on>
+    <off>2</off>
+    <color>255,255,255</color>
+  </event>
+<event>
+    <channel>1</channel>
+    <power>1.0</power>
+    <on>3</on>
+    <off>5</off>
+    <color>255,255,255</color>
+  </event>
+<event>
+    <channel>2</channel>
+    <power>1.0</power>
+    <on>6</on>
+    <off>8</off>
+    <color>255,255,255</color>
+  </event>
+  <event>
+    <channel>3</channel>
+    <power>1.0</power>
+    <on>9</on>
+    <off>11</off>
+    <color>255,255,255</color>
+  </event>
+</repeat>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+  
+  <!-- camera settings -->
+  <camera1>
+    <x_start type="int">576</x_start>
+    <x_end type="int">1471</x_end>
+    <y_start type="int">576</y_start>
+    <y_end type="int">1471</y_end>
+    <x_bin type="int">1</x_bin>
+    <y_bin type="int">1</y_bin>
+    <exposure_time type="float">0.1</exposure_time>
+    <defect_correct_mode type="int">1</defect_correct_mode>
+	
+  <!-- less common camera settings -->
+    <external_trigger type="int">0</external_trigger>
+    
+    <!-- view settings -->
+    <flip_horizontal type="int">0</flip_horizontal>
+    <flip_vertical type="int">0</flip_vertical>
+    <transpose type="int">1</transpose>
+    <scalemax type="int">50000</scalemax>
+    <scalemin type="int">100</scalemin>
+    <max_intensity type="int">50000</max_intensity>
+    <colortable type="string">ramp.ctbl</colortable>  
+    <sync type="int">0</sync>
+  </camera1>
+
+  <!-- illumination settings -->
+  <illumination>
+    <shutters type="string">C:\Users\Sperry3\acquisition\settings\896x896\shutters\Regbead.xml</shutters>
+  </illumination>
+
+  <!-- misc control -->
+  <misc>
+    <em_filter type="int">0</em_filter>
+    <em_checked type="int">1</em_checked>
+    <em_period type="int">60</em_period>
+  </misc>
+
+
+</settings>
+
+
