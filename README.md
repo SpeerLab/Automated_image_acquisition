@@ -14,7 +14,7 @@ Some utility files for xml file generation.
 Store old xml files. 
 
 ## main
-* The master_xml_generator will generate a complete master_run.xml file for use in serial section imaging experiments. 
+* The master_xml_generator will generate a complete master_run.xml file for use in serial section imaging experiments in [Dave](https://github.com/ZhuangLab/storm-control/tree/master/storm_control). 
 * The script requires the presence of a "bead_positions.txt" file (three positions), a "positions.txt" file (N positions), and a "master_xml.xml" file that
 specifies the loop parameters for each sequence of actions to be written to the output xml. The master_xml is built using 
 component elements that are located in the "xmls" folder. 
